@@ -10,8 +10,7 @@
 
   <name>simple-project</name>
   <description>A simple simple-project.</description>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/martinmcclintock/simple-project</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
