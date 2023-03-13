@@ -1,9 +1,11 @@
-name: Publish snapshot on push to main
+name: Perform release on tag
 
 on:
   push:
     tags:
       - '*'
+permissions:
+  contents: read/write
 
 jobs:
   build:
