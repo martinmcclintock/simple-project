@@ -1,2 +1,2 @@
 # simple-project
-Simple project used for testing out reelase process on OSSRH
+Simple Maven project used for testing out release process on OSSRH
