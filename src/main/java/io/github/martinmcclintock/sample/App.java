@@ -1,4 +1,4 @@
-package com.github.martinmcclintock.sample;
+package io.github.martinmcclintock.sample;
 
 /**
  * Hello world!

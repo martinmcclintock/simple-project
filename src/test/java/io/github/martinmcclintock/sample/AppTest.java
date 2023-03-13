@@ -1,4 +1,4 @@
-package com.github.martinmcclintock.sample;
+package io.github.martinmcclintock.sample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
