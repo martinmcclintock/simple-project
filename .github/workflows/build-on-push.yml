@@ -1,6 +1,9 @@
 name: Package build when changes pushed to repository
 
-on: [push]
+on:
+  push:
+    branches-ignore:
+      - main
 
 jobs:
   build:
